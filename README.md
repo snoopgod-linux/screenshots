@@ -57,5 +57,3 @@ You will find in this section some screenshots which will allow you to see what 
 ![image-11](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-11.png)
 
 ![image-12](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-12.png)
-
-### Last Update
