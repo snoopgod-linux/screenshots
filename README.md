@@ -39,3 +39,21 @@ You will find in this section some screenshots which will allow you to see what 
 ![image-02](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-02.png)
 
 ![image-03](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-03.png)
+
+![image-04](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-04.png)
+
+![image-05](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-05.png)
+
+![image-06](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-06.png)
+
+![image-07](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-07.png)
+
+![image-08](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-08.png)
+
+![image-09](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-09.png)
+
+![image-10](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-10.png)
+
+![image-11](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-11.png)
+
+![image-12](https://raw.githubusercontent.com/snoopgod-linux/screenshots/main/desktop/desktop-12.png)
