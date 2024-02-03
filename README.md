@@ -1,2 +1,2 @@
 # screenshots
-Official screenshot repository of SnoopGod Linux OS
+Official screenshots repository of SnoopGod Linux OS
