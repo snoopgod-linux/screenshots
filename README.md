@@ -1,6 +1,6 @@
 ## Screenshots
 
-You will find in this section some screenshots which will allow you to see what SnoopGod Linux OS looks like.
+Official `screenshots` repository of SnoopGod Linux operating system
 
 * * *
 
