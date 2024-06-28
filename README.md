@@ -1,6 +1,6 @@
 ## Screenshots
 
-Official `screenshots` repository of SnoopGod Linux operating system
+Official `screenshots` repository of [SnoopGod](https://snoopgod.com) Linux operating system.
 
 * * *
 
